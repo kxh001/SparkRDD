@@ -10,4 +10,5 @@ $ spark-submit --class edu.ucr.cs.cs226.xkong016.SparkRDD target/SparkRDD-1.0-SN
 ```
 ## Method 2
 ### Execute script "exe_SparkRDD.bat"
-
+`$ .\exe_SprakRDD.bat <input_file_path>`
+I built the project in the Windows OS, so I wrote the batch file with CMD commands.
